@@ -1,0 +1,212 @@
+ [{
+      "id": 1,
+      "name": "iPhone 7",
+      "brand": "Apple",
+      "catagory": "Phone",
+      "price": 449
+    },
+    {
+      "id": 2,
+      "name": "iPhone 7 plus",
+      "brand": "Apple",
+      "catagory": "Phone",
+      "price": 569
+    },
+    {
+      "id": 3,
+      "name": "iPhone 8",
+      "brand": "Apple",
+      "catagory": "Phone",
+      "price": 599
+    },
+    {
+      "id": 4,
+      "name": "iPhone 8 plus",
+      "brand": "Apple",
+      "catagory": "Phone",
+      "price": 699
+    },
+    {
+      "id": 5,
+      "name": "iPhone XS",
+      "brand": "Apple",
+      "catagory": "Phone",
+      "price": 999
+    },
+
+    {
+      "id": 6,
+      "name": "iPhone XS max",
+      "brand": "Apple",
+      "catagory": "Phone",
+      "price": 1099
+    },
+    {
+      "id": 7,
+      "name": "iPhone XR",
+      "brand": "Apple",
+      "catagory": "Phone",
+      "price": 749
+    },
+    {
+      "id": 8,
+      "name": "HUAWEI P20 Lite",
+      "brand": "huawei",
+      "catagory": "Phone",
+      "price": 229
+    },
+    {
+      "id": 9,
+      "name": "HUAWEI P20",
+      "brand": "huawei",
+      "catagory": "Phone",
+      "price": 399
+    },
+    {
+      "id": 10,
+      "name": "HUAWEI P Smart",
+      "brand": "huawei",
+      "catagory": "Phone",
+      "price": 149
+    },
+    {
+      "id": 11,
+      "name": "HUAWEI P20 Pro",
+      "brand": "huawei",
+      "catagory": "Phone",
+      "price": 629
+    },
+    {
+      "id": 12,
+      "name": "HUAWEI Mate 20 Lite",
+      "brand": "huawei",
+      "catagory": "Phone",
+      "price": 379
+    },
+    {
+      "id": 13,
+      "name": "HUAWEI Y7 2018",
+      "brand": "huawei",
+      "catagory": "Phone",
+      "price": 149
+    },
+    {
+      "id": 14,
+      "name": "SAMSUNG Galaxy A7 (2018)",
+      "brand": "samsung",
+      "catagory": "Phone",
+      "price": 309
+    },
+    {
+      "id": 15,
+      "name": "SAMSUNG Galaxy J6",
+      "brand": "samsung",
+      "catagory": "Phone",
+      "price": 179
+    },
+    {
+      "id": 16,
+      "name": "SAMSUNG Galaxy Note 9",
+      "brand": "samsung",
+      "catagory": "Phone",
+      "price": 849
+    },
+    {
+      "id": 17,
+      "name": "SAMSUNG Galaxy S9",
+      "brand": "samsung",
+      "catagory": "Phone",
+      "price": 739
+    },
+    {
+      "id": 18,
+      "name": "SAMSUNG Galaxy S8",
+      "brand": "samsung",
+      "catagory": "Phone",
+      "price": 599
+    },
+    {
+      "id": 19,
+      "name": "SAMSUNG Galaxy J5",
+      "brand": "samsung",
+      "catagory": "Phone",
+      "price": 199.99
+    },
+    {
+      "id": 20,
+      "name": "SAMSUNG Galaxy S9+",
+      "brand": "samsung",
+      "catagory": "Phone",
+      "price": 869
+    },
+    {
+      "id": 21,
+      "name": "iPad mini 4",
+      "brand": "Apple",
+      "catagory": "Tablet",
+      "price": 399
+    },
+    {
+      "id": 22,
+      "name": "iPad",
+      "brand": "Apple",
+      "catagory": "Tablet",
+      "price": 319
+    },
+    {
+      "id": 23,
+      "name": "iPad Pro 10.5",
+      "brand": "Apple",
+      "catagory": "Tablet",
+      "price": 619
+    },
+    {
+      "id": 24,
+      "name": "new iPad Pro 11",
+      "brand": "Apple",
+      "catagory": "Tablet",
+      "price": 769
+    },
+    {
+      "id": 25,
+      "name": "new iPad Pro 12.9",
+      "brand": "Apple",
+      "catagory": "Tablet",
+      "price": 969
+    },
+    {
+      "id": 26,
+      "name": "HUAWEI MediaPad T3 10 9.6",
+      "brand": "Android",
+      "catagory": "Tablet",
+      "price": 129.99
+    },
+    {
+      "id": 27,
+      "name": "SAMSUNG Galaxy Tab A 10.1",
+      "brand": "Android",
+      "catagory": "Tablet",
+      "price": 199.99
+    },
+    {
+      "id": 28,
+      "name": "LENOVO Tab E10 Tablet",
+      "brand": "Android",
+      "catagory": "Tablet",
+      "price": 129.99
+    },
+    {
+      "id": 29,
+      "name": "SAMSUNG Galaxy Tab S4 10.5",
+      "brand": "Android",
+      "catagory": "Tablet",
+      "price": 599.99
+    },
+    {
+      "id": 30,
+      "name": "SAMSUNG Galaxy Tab S2 8",
+      "brand": "Android",
+      "catagory": "Tablet",
+      "price": 299.99
+    }
+ ]
